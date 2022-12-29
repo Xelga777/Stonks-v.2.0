@@ -1,0 +1,39 @@
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\bin\Debug\Stonks_Visual.exe.config
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\bin\Debug\Stonks_Visual.exe
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\bin\Debug\Stonks_Visual.pdb
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.AssemblyReference.cache
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.Properties.Resources.resources
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.GenerateResource.cache
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.CoreCompileInputs.cache
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.exe
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.pdb
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.Stonks_visual.resources
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\bin\Debug\asa-TZ\Stonks_Visual.resources.dll
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\Stonks_Visual.Stonks_visual.asa-TZ.resources
+C:\Users\Xelga\Desktop\Stonks_Visual\Stonks_Visual\obj\Debug\asa-TZ\Stonks_Visual.resources.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\Accounts.mdf
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\Accounts_log.ldf
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\Stonks_Visual.exe.config
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\Stonks_Visual.exe
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\Stonks_Visual.pdb
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\asa-TZ\Stonks_Visual.resources.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.AssemblyReference.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.Stonks_visual.resources
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.Properties.Resources.resources
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.Stonks_visual.asa-TZ.resources
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.GenerateResource.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.CoreCompileInputs.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\asa-TZ\Stonks_Visual.resources.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.exe
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.pdb
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.Permissions.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.Permissions.xml
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks_Visual\obj\Debug\Stonks_Visual.csproj.CopyComplete

@@ -1,0 +1,39 @@
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts.mdf
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts_log.ldf
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe.config
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.pdb
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.AssemblyReference.cache
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Form1.resources
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Properties.Resources.resources
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.GenerateResource.cache
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.CoreCompileInputs.cache
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\OneDrive\Documents\Лаборатория Приключений\Мафия зима 2023\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.pdb
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts.mdf
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts_log.ldf
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe.config
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.pdb
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.AssemblyReference.cache
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Form1.resources
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Properties.Resources.resources
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.GenerateResource.cache
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.CoreCompileInputs.cache
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\Desktop\Stonks v.2\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.pdb
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts.mdf
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\bin\Debug\Accounts_log.ldf
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe.config
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\bin\Debug\Stonks v.2.0.pdb
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.AssemblyReference.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Form1.resources
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v._2._0.Properties.Resources.resources
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.GenerateResource.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks_v_2_0.csproj.CoreCompileInputs.cache
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.exe
+C:\Users\Xelga\Desktop\Stonks v.2.0\Stonks v.2.0\obj\Debug\Stonks v.2.0.pdb
